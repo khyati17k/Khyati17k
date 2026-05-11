@@ -3,8 +3,6 @@
 Aspiring Machine Learning Engineer passionate about Generative AI, NLP, Deep Learning, and scalable AI-powered applications from India. 
 
 🌐 Portfolio: https://my-portfolio-lilac-three-23.vercel.app  
-💼 LinkedIn: https://www.linkedin.com/in/khyati-kapadiya-050832168  
-📧 Email: khyati1796@gmail.com  
 
 ---
 
@@ -63,7 +61,6 @@ Aspiring Machine Learning Engineer passionate about Generative AI, NLP, Deep Lea
 
 # 📫 Connect With Me
 
-- Portfolio: https://my-portfolio-lilac-three-23.vercel.app
-- LinkedIn: https://www.linkedin.com/in/khyati-kapadiya-050832168
-- GitHub: https://github.com/khyati17k
-- Email: khyati1796@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/khyati-kapadiya-050832168  
+📧 Email: khyati1796@gmail.com  
+
