@@ -18,13 +18,17 @@ Aspiring Machine Learning Engineer passionate about Generative AI, NLP, Deep Lea
 
 # 🛠️ Tech Stack
 
- Programming Languages- Python, SQL, Java, C, JavaScript, PHP
- Machine Learning-Supervised & Unsupervised Learning, Ensemble Methods, Model Evaluation, EDA
- Deep Learning & NLP &LLM- CNN, Sequence Models, RAG, Prompt Engineering, Transformers, Text Embeddings, Vector Database
- Data &Visualization-Tableau, OTBI, BI Publisher, HCM Extract 
- Tools/Framework-Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, FAISS, Flask, Streamlit, LangChain ,
- Google Collab, Latex, Tensorflow, PyTorch, Hugging Face Transformers
- Other-HTML, CSS, JavaScript, React, REST APIs, Data Preprocessing, Statistical Analysis
+**Programming Languages:** Python, SQL, Java, C, JavaScript, PHP  
+
+**Machine Learning:** Supervised & Unsupervised Learning, Ensemble Methods, Model Evaluation, EDA  
+
+**Deep Learning, NLP & LLM:** CNN, Sequence Models, RAG, Prompt Engineering, Transformers, Text Embeddings, Vector Database  
+
+**Data & Visualization:** Tableau, OTBI, BI Publisher, HCM Extract  
+
+**Tools & Frameworks:** Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, FAISS, Flask, Streamlit, LangChain, Google Colab, LaTeX, TensorFlow, PyTorch, Hugging Face Transformers, MLflow  
+
+**Other:** HTML, CSS, JavaScript, React, REST APIs, Data Preprocessing, Statistical Analysis
 
 ---
 
